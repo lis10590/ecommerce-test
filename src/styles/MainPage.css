@@ -1,0 +1,13 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container > div {
+  background-color: white;
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+
+  font-size: 10px;
+}

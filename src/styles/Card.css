@@ -1,0 +1,51 @@
+.card-container {
+  float: right;
+  background-color: #a7d2cb;
+  border-radius: 15px;
+  max-width: 100%;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: left;
+  padding: 5px;
+  font-size: 10px;
+}
+
+.card-container-id2 {
+  float: right;
+  background-color: #47b5ff;
+  border-radius: 15px;
+  width: 220px;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: left;
+  padding: 5px;
+  font-size: 10px;
+}
+
+.card-container-id4 {
+  float: right;
+  background-color: #bface0;
+  border-radius: 15px;
+  width: 160px;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: left;
+  padding: 5px;
+  font-size: 10px;
+}
+
+.card-container-id12 {
+  float: right;
+  background-color: #ff9a76;
+  border-radius: 15px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  text-align: left;
+  padding: 5px;
+  font-size: 10px;
+}
+
+a {
+  color: blue;
+}
